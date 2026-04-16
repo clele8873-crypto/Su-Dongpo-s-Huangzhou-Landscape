@@ -1,0 +1,5 @@
+{
+  "name": "东坡黄州山河志 (Su Dongpo's Huangzhou Landscape)",
+  "description": "一个交互式3D地形展示工具，旨在帮助学生直观理解苏轼在黄州时期的诗词地理背景，展示长江、定慧院与承天寺的地势起伏。",
+  "requestFramePermissions": []
+}
